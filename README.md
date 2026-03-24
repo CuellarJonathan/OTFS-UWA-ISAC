@@ -23,6 +23,7 @@ O objetivo principal é avaliar a robustez da modulação OTFS frente ao severo 
   * `/scripts/channel`: Modelos de canal acústico submarino.
   * `/scripts/mapping`: Scripts UWA de Localização.
   * `/scripts/comm`: Scripts UWA de Comunicação.
+  * `/scripts/isac`: Scripts UWA de Comunicação e Localização Integradas.
 
 ## 🎓 Citação
 Se este código for útil para sua pesquisa, por favor cite:
